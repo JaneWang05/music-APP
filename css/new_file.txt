@@ -1,0 +1,101 @@
+<!--<div class="display">
+			<div class="ss"></div>
+			<div class="tc1">						
+				<div class="xinxi">
+					<span>歌曲：</span><span>七里香</span>
+				</div>
+				<ul class="st">
+					<li id="next">
+						<span clas="icon">&#xe601;</span><span>下一首播放</span>
+					</li>
+					<li>
+						<span clas="icon">&#xe644;</span><span>收藏到歌单</span>
+					</li>
+					<li id="delete">
+						<span clas="icon" >&#xe61c;</span><span>删除</span>
+					</li>
+					<li>
+						<span clas="icon">&#xe673;</span><span>音质升级</span>
+					</li>
+					<li>
+						<span clas="icon">&#xe65f;</span><span>设为铃声</span>
+					</li>
+					<li>
+						<span clas="icon">&#xe643;</span><span>查看歌曲信息</span>
+					</li>
+				</ul>
+			</div>
+			<div class="tc2">						
+				
+			</div>
+			<div class="head">
+				<div class="word">
+					<span>&#xe61d;</span>
+					<span>歌曲列表</span>
+					<span>&#xe606;</span>
+					<span>&#xe60a;</span>
+				</div>
+				<div class="wenzi">
+					<span>单曲</span>
+					<span>歌手</span>
+					<span>专辑</span>
+					<span>文件夹</span>
+				</div>
+			</div>
+				<ul class="songlist">
+				
+			</ul>
+			<div class="tuijian">
+				<div class="first">
+					<span>&#xe631;</span>
+					<span>推荐歌单</span>
+					<span>&#xe604;</span>
+					<span>更多</span>
+				</div>
+				<div class="box">
+					<div class="boxs" data-role= '{"src":"music/多余的解释.mp3","name":"多余的解释","album":"自定义","author":"许嵩","state":"0","img":"image/xs.jpg","content":"[00:00.00]多余的解释"}'>
+						<div class="img1">
+						</div>
+						<p>【多余的解释】</p>
+					</div>
+					<div class="boxs" data-role= '{"src":"music/夜曲.mp3","name":"夜曲","album":"十一月的肖邦","author":"周杰伦","state":"0","img":"image/ye.jpg","content":"[00:00.00]夜曲"}'>
+						<div class="img1">
+						</div>
+						<p>【夜曲】</p>
+					</div>
+					<div class="boxs" data-role= '{"src":"music/不分手的恋爱.mp3","name":"不分手的恋爱","album":"慢慢懂","author":"汪苏泷","state":"0","img":"image/wsl.jpg","content":"[00:00.00]不分手的恋爱"}'>
+						<div class="img1">
+						</div>
+						<p>【不分手的恋爱】</p>
+					</div>
+					<div class="boxs" data-role= '{"src":"music/全世界宣布爱你.mp3","name":"全世界宣布爱你","album":"一年一度的夏天","author":"孙子涵","state":"0","img":"image/szh.jpg","content":"[00:00.00]全世界宣布爱你"}'>
+						<div class="img1">
+						</div>
+						<p>【全世界宣布爱你】</p>
+					</div>
+					<div class="boxs" data-role= '{"src":"music/叹服.mp3","name":"叹服","album":"寻雾启示","author":"许嵩","state":"0","img":"image/xs2.jpg","content":"[00:00.00]叹服"}'>
+						<div class="img1" >
+						</div>
+						<p>【叹服】</p>
+					</div>
+					<div class="boxs" data-role= '{"src":"music/喜欢你.mp3","name":"喜欢你","album":"喜欢你","author":"邓紫棋","state":"0","img":"image/dzq.jpg","content":"[00:00.00]喜欢你"}'>
+						<div class="img1">
+						</div>
+						<p>【喜欢你】</p>
+					</div>
+				</div>
+			</div>
+			<div class="foot1"></div>
+			<div class="foot">
+				<div class="tu">
+					<img src="image/qi.jpg" alt="" class="kk"/>
+				</div>
+				<div class="content">
+					<p id="gm">七里香</p>
+					<p id="gs">周杰伦</p>
+				</div>
+				<span class="forword">&#xe622;</span>
+				<span class="play">&#xe64b;</span>
+				<span class="list">&#xe605;</span>
+			</div>
+		</div>-->
