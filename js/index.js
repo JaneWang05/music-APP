@@ -65,11 +65,11 @@ $(function(){
 		content:"[00:00.00]轻音乐，请欣赏。"
 	}
 	,{
-		name:"大鱼",
-		src:"music/周深 - 大鱼.mp3",
-		author:"周深",
-		img:"image/44.jpg",
-		album:"大鱼.海棠",
+		name:"我从悬崖跌落",
+		src:"music/谢春花-我从崖边跌落.mp3",
+		author:"谢春花",
+		img:"image/5.jpg",
+		album:"算云烟",
 		state:"0",
 		content:"[00:00.00]轻音乐，请欣赏。"
 	}]
